@@ -1,5 +1,4 @@
-@echo Si el coso es gay precione enter para continuar porfavor
-@echo El proceso empezara AHORA!
+@echo Presionar enter para iniciar proceso!
 @echo off
 pause
 @echo off
@@ -18,5 +17,5 @@ copy/b %cosogay%+"%%a" %cosogay%
 echo. >>%cosogay%
 echo. >>%cosogay%)
 
-@echo Coso gay
+@echo Terminado, presionar enter para cerrar.
 pause
